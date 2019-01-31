@@ -15,7 +15,7 @@
   Newhaven Display invests time and resources providing this open source code,
   please support Newhaven Display by purchasing products from Newhaven Display!
 
-  Extended & Modified by Luke Zhu and Shain Bannowsky
+  Extended & Modified by Matt Chea, Luke Zhu, and Shain Bannowsky
 */
 
 // Bluetooth global variables
